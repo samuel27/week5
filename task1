@@ -2,4 +2,5 @@ def mystery(x, y) :
 result = (x + y) / (y - x)
 return result
 
-mystery(2, 3)?
+mystery(2, 3)
+mystery(3,4)
